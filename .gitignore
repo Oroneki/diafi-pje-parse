@@ -1,0 +1,6 @@
+*.xlsx
+venv/
+*.xls
+*~lock*
+.vscode/
+.mypy_cache/
